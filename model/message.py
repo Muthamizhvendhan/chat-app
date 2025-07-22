@@ -18,3 +18,4 @@ class message(object):
   # Delete message.
   def delete_message(self):
     pass
+    
