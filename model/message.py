@@ -9,9 +9,9 @@ class message(object):
   # Create message.
   def create_message(self):
     pass
-  # Write message.
-  def Write_message(self):
-    print('Write message to user.')
+  # Push message.
+  def Push_message(self):
+    print('Push message to user.')
   # Received message.
   def receive_message(self):
     pass
